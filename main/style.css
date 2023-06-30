@@ -1,12 +1,5 @@
-#content {
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    margin: 100px;
-}
 
-.carre {
-    display: flex;
+#carre {
     width: 200px;
     height: 200px;
     background-color: rgb(136, 174, 136);
@@ -14,4 +7,5 @@
     font-family: 'Times New Roman', Times, serif;
     font-size: 40px;
     text-align: center;
+    line-height: 180px;
 }
